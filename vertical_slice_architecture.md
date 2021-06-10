@@ -11,7 +11,7 @@ Most projects require an agile approach to developing new features and the self 
 
 Jimmy Bogard describes it well in his blog, where he gives examples of a couple of query and a couple of command operations, each focused on the **value** it delivers and not trying to follow an arbitrary one size fits all pattern. 
 
-<IMG  src="https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/3/2018/Picture0031.png"/>
+![Jimmy Bogard separation of concerns](vertical_slice_architecture_img01.png)
 
 Patterns and Architecture in general should naturally evolve from the code and is not something that should be enforced at all costs. Basically if the code fight's you are probably pushing in the wrong direction.
 
